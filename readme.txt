@@ -1,0 +1,2 @@
+L'archive : Demo app, contient une demontration du fonctionnement de l'application (capture video).
+Pour creer la base de données, vous pouvez soit executer le fichier cours_python.sql soit executer le fichier python create_database.py (qui contient une methode pour creer l'ensemble de la base de données).
